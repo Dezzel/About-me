@@ -14,7 +14,9 @@ continue learning.
 
 ### Education
 ##### Belarusian State university of Informatics and Radioelectronics -- Minsk, Belarus -- 2013-this time
+
 *Faculty of Computer-Aided Design
+
 *I will become a student with a bachelor degree in 2017.
 
 - Programming languages and technologies: c++, matlab
