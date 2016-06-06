@@ -8,9 +8,12 @@ Email: banderos2134@gmail.com
 Skype: banderos2134
 
 ---
+
 ### Summary
 I'm a beginner in Python. I completed CodeAcademy's courses recently and want to
 continue learning.
+
+---
 
 ### Education
 ##### Belarusian State university of Informatics and Radioelectronics -- Minsk, Belarus -- 2013-this time
